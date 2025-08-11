@@ -34,11 +34,3 @@ Designed with a clean UI/UX, includes search functionality, and works across dev
 - **Font Awesome** – Icons
 - **WeatherAPI** – Weather data
 
----
-
-## ⚙️ Setup & Usage
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
