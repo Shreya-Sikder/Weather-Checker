@@ -23,7 +23,7 @@ Designed with a clean UI/UX, includes search functionality, and works across dev
 ---
 
 ## 📸 Preview
-![Weather App Screenshot]()
+![Weather App Screenshot](weather.PNG)
 
 ---
 
